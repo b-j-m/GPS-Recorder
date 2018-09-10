@@ -4,7 +4,7 @@
 # Put your script (and all resources that it needs for running) in this folder.
 # The filename of the main script should be "main.py".
 
-import ui, location, dialogs, time, console, math, urllib, requests, console
+import ui, location, dialogs, time, console, math, urllib, requests
 stop = True
 lastloc = None
 curloc = None
